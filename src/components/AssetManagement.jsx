@@ -1,0 +1,1 @@
+export default function AssetManagement(){return <div>Asset Management CRUD Production</div>;}

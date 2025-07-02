@@ -1,0 +1,1 @@
+export default function UnitLogsModal(){return <div>Logs Modal</div>;}

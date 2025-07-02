@@ -1,0 +1,1 @@
+export default function BookingCalendar(){return <div>Booking Calendar Production</div>;}
